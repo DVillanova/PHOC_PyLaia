@@ -1,0 +1,9 @@
+[submodule "doc_synthesizer"]
+	path = doc_synthesizer
+	url = https://github.com/ollit94/doc_synthesizer.git
+[submodule "ie-eval"]
+	path = ie-eval
+	url = https://gitlab.teklia.com/ner/metrics/ie-eval.git
+[submodule "word_embeddings_pylaia"]
+	path = word_embeddings_pylaia
+	url = https://github.com/DVillanova/word_embeddings_pylaia.git
